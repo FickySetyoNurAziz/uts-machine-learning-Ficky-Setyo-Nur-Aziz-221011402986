@@ -5,7 +5,7 @@ Repositori ini berisi penyelesaian Tugas Ujian Tengah Semester (UTS) Mata Kuliah
 ## 👤 Identitas Mahasiswa
 - **Nama**   : Ficky Setyo Nur Aziz
 - **NIM**    : 221011402986
-- **Kelas**  : Reg B 
+- **Kelas**  : Reg B / Reg C
 - **RANDOM_STATE** : 86 (2 digit terakhir NIM)
 
 ---
